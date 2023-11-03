@@ -8,7 +8,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@web/dev-server": "^0.2.5"
+    "@web/dev-server": "^0.2.5",
+    "typescript": "^5.2.2"
   },
   "main": "index.js",
   "dependencies": {
@@ -124,7 +125,6 @@
     "tr46": "^3.0.0",
     "tsscmp": "^1.0.6",
     "type-is": "^1.6.18",
-    "typescript": "^5.2.2",
     "typical": "^4.0.0",
     "undici-types": "^5.26.5",
     "vary": "^1.1.2",
